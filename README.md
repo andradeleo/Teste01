@@ -27,7 +27,7 @@ The following tools were used in this project:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/andradeleo/teste01
+$ git clone https://github.com/andradeleo/teste01.git
 ```
 
 Made with :heart: by <a href="https://github.com/andradeleo" target="_blank">Leonardo Andrade</a>
